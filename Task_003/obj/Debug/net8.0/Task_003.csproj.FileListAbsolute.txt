@@ -1,0 +1,15 @@
+D:\HW\gb\HW for Seminars\Seminar 5 HW\Task_All\Task_003\bin\Debug\net8.0\Task_003.exe
+D:\HW\gb\HW for Seminars\Seminar 5 HW\Task_All\Task_003\bin\Debug\net8.0\Task_003.deps.json
+D:\HW\gb\HW for Seminars\Seminar 5 HW\Task_All\Task_003\bin\Debug\net8.0\Task_003.runtimeconfig.json
+D:\HW\gb\HW for Seminars\Seminar 5 HW\Task_All\Task_003\bin\Debug\net8.0\Task_003.dll
+D:\HW\gb\HW for Seminars\Seminar 5 HW\Task_All\Task_003\bin\Debug\net8.0\Task_003.pdb
+D:\HW\gb\HW for Seminars\Seminar 5 HW\Task_All\Task_003\obj\Debug\net8.0\Task_003.GeneratedMSBuildEditorConfig.editorconfig
+D:\HW\gb\HW for Seminars\Seminar 5 HW\Task_All\Task_003\obj\Debug\net8.0\Task_003.AssemblyInfoInputs.cache
+D:\HW\gb\HW for Seminars\Seminar 5 HW\Task_All\Task_003\obj\Debug\net8.0\Task_003.AssemblyInfo.cs
+D:\HW\gb\HW for Seminars\Seminar 5 HW\Task_All\Task_003\obj\Debug\net8.0\Task_003.csproj.CoreCompileInputs.cache
+D:\HW\gb\HW for Seminars\Seminar 5 HW\Task_All\Task_003\obj\Debug\net8.0\Task_003.sourcelink.json
+D:\HW\gb\HW for Seminars\Seminar 5 HW\Task_All\Task_003\obj\Debug\net8.0\Task_003.dll
+D:\HW\gb\HW for Seminars\Seminar 5 HW\Task_All\Task_003\obj\Debug\net8.0\refint\Task_003.dll
+D:\HW\gb\HW for Seminars\Seminar 5 HW\Task_All\Task_003\obj\Debug\net8.0\Task_003.pdb
+D:\HW\gb\HW for Seminars\Seminar 5 HW\Task_All\Task_003\obj\Debug\net8.0\Task_003.genruntimeconfig.cache
+D:\HW\gb\HW for Seminars\Seminar 5 HW\Task_All\Task_003\obj\Debug\net8.0\ref\Task_003.dll

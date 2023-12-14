@@ -63,9 +63,9 @@ void InputNumbers()
     System.Console.WriteLine("Чтобы выйти введите '0'");
     System.Console.WriteLine();
 
-    System.Console.Write("Введите номер строки:");
+    System.Console.Write("Введите номер (не индекс) строки:");
     rowFound = Convert.ToInt32(Console.ReadLine());    
-    System.Console.Write("Введите номер колонки:");
+    System.Console.Write("Введите номер (не индекс) колонки:");
     colsFound = Convert.ToInt32(Console.ReadLine());
 
         if (rowFound <= row && colsFound <= cols && rowFound > 0 && colsFound > 0)
