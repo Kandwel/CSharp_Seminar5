@@ -10,8 +10,7 @@ Random rand = new Random();
 
 string reading;
 
-System.Console.WriteLine("Программа принимает позиции элемента в двумерном массиве,");
-System.Console.WriteLine("возвращает значение этого элемента или говорит, что такого нет");
+System.Console.WriteLine("Программа переставляет первую и последнюю строку двумерного массива");
 Console.WriteLine();
 GenerateArray();
 
@@ -77,30 +76,3 @@ void ReversFirstLast()
         Console.WriteLine();
     }
 }
-
-/*
-void Revers()
-{
-    for (i = 0; i < lenght / 2; i++)
-    {
-        num = n[i];
-        n[i] = n[lenght - (1 + i)];
-        n[lenght - (1 + i)] = num;  
-    }
-
-    Console.WriteLine();
-    System.Console.Write("Перевёрнутый массив чисел: ");
-
-    for (i = 0; i < lenght; i++)
-    {
-        if (i != lenght - 1)
-        {
-            System.Console.Write($" {n[i]},");
-        }
-        else
-        {
-            System.Console.Write($" {n[i]}");
-        }
-    }
-}
-*/
